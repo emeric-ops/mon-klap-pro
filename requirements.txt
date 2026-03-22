@@ -1,0 +1,7 @@
+streamlit
+moviepy
+openai-whisper
+yt-dlp
+opencv-python-headless
+mediapipe
+torch
